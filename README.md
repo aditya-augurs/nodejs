@@ -1,6 +1,13 @@
-# nodejs
-A minimal Node.js web application.
+# A Chat Service in NestJs
 
-For a step-by-step guide to deploying on [Railway](https://railway.app/?referralCode=alphasec), see [this](https://alphasec.io/how-to-deploy-a-nodejs-app-on-railway/) post, or click the button below.
+This NestJs project is a websocket application used by [Chat App](https://github.com/sharmavikashkr/chat_app_flutter).
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Abo1zu?referralCode=alphasec)
+## Introduction
+
+More details:
+* [A chat app in flutter using a Socket.IO service](https://medium.com/nerd-for-tech/flutter-a-chat-app-in-flutter-using-a-socket-io-service-88be02a388d6)
+* [Chat notifications using FCM in a socket.io powered chat app](https://medium.com/nerd-for-tech/flutter-chat-notifications-using-fcm-in-a-socket-io-powered-chat-app-7fabe6a3d912)
+
+## Future improvements
+
+* Multi group chats
